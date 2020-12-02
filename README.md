@@ -9,3 +9,4 @@ The notebooks have the following content:
 * 01_metadata.ipynb: Read the metadata from csv file
 * 02_prepare_training_validation_data.ipynb: Prepare the data for training
 * 03_CNN_pytorch.ipynb: Create a CNN using pytorch
+* 03_CNN_tensorflow.ipynb: Create a CNN using tensorflow/keras
