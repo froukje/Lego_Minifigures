@@ -10,3 +10,4 @@ The notebooks have the following content:
 * 02_prepare_training_validation_data.ipynb: Prepare the data for training
 * 03_CNN_pytorch.ipynb: Create a CNN using pytorch
 * 03_CNN_tensorflow.ipynb: Create a CNN using tensorflow/keras
+* 04_pretrained_model_tf.ipynb: use a pretrained model (tensorflow/keras)
