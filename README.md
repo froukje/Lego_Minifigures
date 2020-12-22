@@ -4,6 +4,8 @@ Working on the Dataset of Lego Minifigures from [Kaggle](https://www.kaggle.com/
 
 This is an image classification task with 30 different classes.
 
+The purpose of this repository is to compare Tensorflow with PyTorch
+
 The notebooks have the following content:
 
 * 01_metadata.ipynb: Read the metadata from csv file
